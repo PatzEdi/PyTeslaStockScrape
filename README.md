@@ -1,5 +1,5 @@
 # PyTeslaStockScrape
-### **A script that allows you to send notifications to any device once the tesla stock goes either below or above the inputted values.**
+### **A script that allows you to send notifications to any device once the TSLA stock goes either below or above the inputted values.**
 ____________________________________________________________________________
 
 This script uses ntfy.sh, a notification sending service by binwiederhier! [NTFY github](https://github.com/binwiederhier/ntfy)
