@@ -13,10 +13,10 @@ ____________________________________________________________________________
 -Source code has lots of comments to guide you in figuring out how it works.
 ____________________________________________________________________________
 ## **Why?**
--I wanted to showcase how one can easily scrape data off a website and create an automated system to retrieve that specific piece of data.</sub>
+-I wanted to showcase how one can easily scrape data off a website and create an automated system to retrieve that specific piece of data.
 ____________________________________________________________________________
 ## **How?**
-<sub>-I did so by using a regex which found the data between two keywords in the source code of the website. Note that the keywords vary between each website as the source code is different.
+-I did so by using a regex which found the data between two keywords in the source code of the website. Note that the keywords vary between each website as the source code is different.
 -I used urllib to get the source code of the URL and refresh that code every few seconds.
 ____________________________________________________________________________
 ## **User notice**
