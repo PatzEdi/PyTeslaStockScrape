@@ -6,7 +6,7 @@ This script uses ntfy.sh, a notification sending service by binwiederhier! [NTFY
 
 Written in python, this script scrapes CNBC.com in order to gather TSLA and their stock market price.
 ____________________________________________________________________________
-## **Features–**
+## **Features**
 - Send notifications once TSLA stock goes above or below the given value (Useful for selling or buying)
 - Input the number of hours for the scraper to go
 - Uses [ntfy.sh](https://ntfy.sh) for fast notifications across all your devices (Android, iOS, Windows, Linux, Mac, any platform!)
