@@ -17,7 +17,7 @@ ____________________________________________________________________________
 ____________________________________________________________________________
 ## **How?**
 - I did so by using a regex which found the data between two keywords in the source code of the website. Note that the keywords vary between each website as the source code is different.
-- I used urllib to get the source code of the URL and refresh that code every few seconds.
+- I used urllib as well as requests to get the source code of the URL and refresh that code every few seconds.
 ____________________________________________________________________________
 ## **User notice**
 - Please note that you have to put your ntfy.sh channel in the code in order to receive the notifications!
@@ -26,6 +26,7 @@ ____________________________________________________________________________
 ## **Services used (Credits):**
 - **ntfy.sh** by binwiederhier! Github Link: [NTFY](https://github.com/binwiederhier/ntfy)
 - **urllib**, python library. Docs at [here](https://docs.python.org/3/library/urllib.html)
+- **requests**, python library. Docs [here](https://pypi.org/project/requests/)
 ____________________________________________________________________________
 ## **Thank you.**
 This was a fun little project demonstrating the power of python and integrating it into a notification service. Many more of these projects will come soon!
